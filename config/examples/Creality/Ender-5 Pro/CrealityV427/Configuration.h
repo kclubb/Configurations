@@ -897,6 +897,7 @@
  * The BLTouch probe uses a Hall effect sensor and emulates a servo.
  */
 // KWC enable bltouch
+// SEE http://813studios.com/creality-4-2-7-marlin-bltouch-install-notes-ender-3/
 #define BLTOUCH
 
 /**
